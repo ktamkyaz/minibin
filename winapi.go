@@ -50,5 +50,4 @@ func emptyBin() {
 		0,
 		uintptr(SHERB_NOCONFIRMATION),
 	)
-	_ = unsafe.Pointer(nil)
-}	
+}
